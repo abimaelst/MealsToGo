@@ -7,6 +7,7 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       <View>
         <Text>Hi there! </Text>
+        <Text>Hi there! </Text>
       </View>
       <ExpoStatusBar style="auto" />
     </SafeAreaView>
